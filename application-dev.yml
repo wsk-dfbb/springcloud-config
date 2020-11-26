@@ -2,7 +2,7 @@ server:
   port: 3388
 spring:
   application:
-    name: cloud-config-center
+    name: cloud-config-center1
   cloud:
     config:
       server:
